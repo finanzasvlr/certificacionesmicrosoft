@@ -16,3 +16,8 @@ Los proveedores en los cuales debes crear un usuario para poder acceder a creden
 En este vínculo te dejo los accesos a los proveedores mencionados:
 
 https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/02_Cuentas_para_certificarse
+
+# 3.  Videos preparatorios
+Si eres un alumno de la Universidad ICESI, solicita acceso a los videos tutoriales que te dejo en la sigiuente ruta:
+
+https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/03_Videos_preparatorios
