@@ -61,7 +61,7 @@ En el siguiente enlace te dejo algunos ejemplo de Centros Autorizados de Certifi
 https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/07_Centros_de_Certificacion_autorizados
 
 # 8. Compass
-Compass es el software en el cual se realizan las certifiaciones de producción de Microsoft.  
+Compass es el software en el cual se realizan las certificaciones de producción de Microsoft.  
 
 Dicho software solo puede ser instalado a través de un ID de Administador de Centro Autorizado de Certificación de Certiport y en centros de cómputo físicos con máquinas adaptadas para la presentación de dichos Exámenes.  
 
