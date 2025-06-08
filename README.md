@@ -41,3 +41,14 @@ De forma gratuita podrás realizar los exámenes de Microsoft Learn y de ExamTop
 Los proveedores pagos de simulaciones de exámenes más famosos son Gmetrix y Jasperactive: recuerda, el voucher que pagues con ellos no tiene nada que ver con el voucher real del examen.
 
 Te recomiendo tomar un paquete con tu Centro Autorizado de Certificaciones Microsoft, que incluya el voucher del simulador de prueba junto en el voucher del examen de producción.
+
+En el siguiente enlace te comparto los enlaces a las pruebas y enlaces mencionados:
+
+https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/05_Simulaciones_examen
+
+# 6. Voucher examen (producción)
+Para poder realizar el examen real (producción) de Microsoft, deberás tener un código de voucher: tu Centro Autorizado de Certificación será el encargado de generar el número del voucher. 
+
+En el siguiente enlace te dejo una muestra de cómo luce dicho código:
+
+https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/06_Voucher_examen
