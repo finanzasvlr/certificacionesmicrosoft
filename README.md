@@ -52,3 +52,10 @@ Para poder realizar el examen real (producción) de Microsoft, deberás adquirir
 En el siguiente enlace te dejo una muestra de cómo luce dicho código:
 
 https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/06_Voucher_examen
+
+# 7. Centro de certificación autorizados CERTIPORT
+Certiport es uno de los proveedores internacionales de exámenes de certificación (producción) de Microsoft.  Para poder lograr abarcar certificaciones en todo el mundo, CERTIPORT designa centros autorizados regionales para tal fin.
+
+En el siguiente enlace te dejo algunos ejemplo de Centros Autorizados de Certificación avalados por CERTIPORT.
+
+https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/07_Centros_de_Certificacion_autorizados
