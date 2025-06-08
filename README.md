@@ -61,7 +61,11 @@ En el siguiente enlace te dejo algunos ejemplo de Centros Autorizados de Certifi
 https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/07_Centros_de_Certificacion_autorizados
 
 # 8. Compass
-Compass es el software en el cual se realizan las certifiaciones de producción de Microsoft.  Dicho sofwtware solo puede ser instalado a través de un ID de Administador de Centro Autorizado de Certificación de Certiport y en centros de cómputo físicos con máquinas adaptadas para la presentación de dichos Exámenes.  Así mismo, el voucher para la presentación del examen real, solo puede ser habilitado en Compass por un Administrador de Centro Autorizado de Certiport o un Proctor de Centro Autorizado de Certiport. Es decir, para realizar el examen físicamente, siempre debe estar presente una persona encargada de la supervisión del mismo.
+Compass es el software en el cual se realizan las certifiaciones de producción de Microsoft.  
+
+Dicho software solo puede ser instalado a través de un ID de Administador de Centro Autorizado de Certificación de Certiport y en centros de cómputo físicos con máquinas adaptadas para la presentación de dichos Exámenes.  
+
+Así mismo, el voucher para la presentación del examen real, solo puede ser habilitado en Compass por un Administrador de Centro Autorizado de Certiport o un Proctor de Centro Autorizado de Certiport. Es decir, para realizar el examen físicamente, siempre debe estar presente una persona encargada de la supervisión del mismo.
 
 El Compass se ve de la siguiente manera en tu máquina física de certificación: 
 
