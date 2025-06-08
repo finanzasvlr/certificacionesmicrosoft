@@ -47,7 +47,7 @@ En el siguiente enlace te comparto los enlaces a las pruebas y enlaces mencionad
 https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/05_Simulaciones_examen
 
 # 6. Voucher examen (producción)
-Para poder realizar el examen real (producción) de Microsoft, deberás tener un código de voucher: tu Centro Autorizado de Certificación será el encargado de generar el número del voucher. 
+Para poder realizar el examen real (producción) de Microsoft, deberás adquirir (de manera paga) un código de voucher: tu Centro Autorizado de Certificación será el encargado de generar el número del voucher. 
 
 En el siguiente enlace te dejo una muestra de cómo luce dicho código:
 
