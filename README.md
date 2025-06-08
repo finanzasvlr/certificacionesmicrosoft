@@ -1,5 +1,5 @@
 # Guía para certificarse Microsoft
-¡Hola!, soy Álvaro Rodríguez, Partner y Trainer certificado por Microsoft, te dejo mi LinkedIN para que nos contactemos: https://www.linkedin.com/in/alvarorodriguezlasso
+¡Hola!, soy Álvaro Rodríguez, Partner y Trainer certificado por Microsofty Proctor de Certiport, te dejo mi LinkedIN para que nos contactemos: https://www.linkedin.com/in/alvarorodriguezlasso
 
 Este repositorio es una guía paso a paso para entender y aplicar una certificación de Microsoft
 
@@ -59,3 +59,10 @@ Certiport es uno de los proveedores internacionales de exámenes de certificaci�
 En el siguiente enlace te dejo algunos ejemplo de Centros Autorizados de Certificación avalados por CERTIPORT.
 
 https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/07_Centros_de_Certificacion_autorizados
+
+# 8. Compass
+Compass es el software en el cual se realizan las certifiaciones de producción de Microsoft.  Dicho sofwtware solo puede ser instalado a través de un ID de Administador de Centro Autorizado de Certificación de Certiport y en centros de cómputo físicos con máquinas adaptadas para la presentación de dichos Exámenes.  Así mismo, el voucher para la presentación del examen real, solo puede ser habilitado en Compass por un Administrador de Centro Autorizado de Certiport o un Proctor de Centro Autorizado de Certiport. Es decir, para realizar el examen físicamente, siempre debe estar presente una persona encargada de la supervisión del mismo.
+
+El Compass se ve de la siguiente manera en tu máquina física de certificación: 
+
+https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/08_Compass
