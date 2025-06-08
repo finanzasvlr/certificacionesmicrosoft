@@ -1,4 +1,6 @@
 # Guía para certificarse Microsoft
+¡Hola!, soy Álvaro Rodríguez, Partner y Trainer certificado por Microsoft, te dejo mi LinkedIN para que nos contactemos: https://www.linkedin.com/in/alvarorodriguezlasso
+
 Este repositorio es una guía paso a paso para entender y aplicar una certificación de Microsoft
 
 # 1. Certificaciones Microsoft
@@ -21,3 +23,12 @@ https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/02_Cuentas_par
 Si eres un alumno de la Universidad ICESI, solicita acceso a los videos tutoriales que te dejo en la sigiuente ruta:
 
 https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/03_Videos_preparatorios
+
+# 4.  Material de lectura y ejemplo de preguntas
+Complementario a los videos del paso anterior, es ideal que realices algunas lecturas y prácticas.  De manera opcional y complementaria, en Microsoft Learn están dispuetas máquinas virtuales para realizar las prácticas respectivas.
+
+En el siguiente enlace te dejo lecturas de ayuda para las certificaciones:
+
+https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/04_Lecturas_preparatorias
+
+En clase veremos ejemplos de preguntas de las certificaciones
