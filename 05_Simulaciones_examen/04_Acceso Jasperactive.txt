@@ -1,0 +1,1 @@
+https://accounts.jasperactive.com/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3D9f4f79f7-d6fb-4ca5-9a60-ab54cdbbab58%26scope%3Dopenid%2520profile%2520email%2520offline_access%26redirect_uri%3Dhttps%253A%252F%252Fmos.jasperactive.com%252FIdentityServerCallback.aspx%26response_type%3Dcode%26state%3D021a976b-34c3-455d-b40f-4cd6c44dc379
