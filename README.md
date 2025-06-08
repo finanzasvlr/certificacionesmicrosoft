@@ -34,7 +34,7 @@ https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/04_Lecturas_pr
 En clase veremos ejemplos de preguntas de las certificaciones
 
 # 5.  Simulación de exámenes
-Existen múltiples proveedores para realizar simulaciones de exámenes.  Todos los contenidos, emuladores, vouchers de pago, son específicamente construídos por dichos proveedores para realizar un ambiente de pruebas de la certificaciones y no tienen nada que ver con los exámenes reales o de producción de Microsoft.  Sin embargo, si ganas alguno de estos emuladores, es muy probable que te certifiques cuando ya realices la prueba en firme: te recomiendo que antes de realizar el examen de produccción, realices unas simulación del mismo.
+Existen múltiples proveedores para realizar simulaciones de exámenes.  Todos los contenidos, emuladores, vouchers de pago, son específicamente construídos por dichos proveedores para realizar un ambiente de pruebas de las certificaciones y no tienen nada que ver con los exámenes reales o de producción de Microsoft.  Sin embargo, si ganas alguno de estos emuladores, es muy probable que te certifiques cuando ya realices la prueba en firme: te recomiendo que antes de realizar el examen de produccción, realices unas simulación del mismo.
 
 De forma gratuita podrás realizar los exámenes de Microsoft Learn y de ExamTopics.  Para Microsoft Learn te sugiero realizar el examen de prueba al menos 3 veces, dado que así abarcas el banco de preguntas de manera más amplia.
 
