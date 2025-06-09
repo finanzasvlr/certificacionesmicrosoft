@@ -76,7 +76,7 @@ Una vez hayas finalizado la prueba real de Microsoft, tendrás a acceso a difere
 
 Score Report.  
 Diploma (solo si ganas la prueba).  
-Credencial virtua - Credly (solo si ganas la prueba).  
+Credencial virtual - Credly (solo si ganas la prueba).  
 Historial de certificaciones de MS Learn.
 
 En la siguiente ruta te dejo imágenes de cada uno de ellos:
