@@ -72,11 +72,11 @@ El Compass se ve de la siguiente manera en tu máquina física de certificación
 https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/08_Compass
 
 # 9. Diplomas y Credenciales
-Una vez hayas finalizado la prueba real de Microsoft, tendrá a acceso a diferentes certificados, credenciales y reportes. Ten en cuenta que dependiendo del proveedor de certificaciones (sea Certirport u otro) este tipo de documentos pueden variar o sencillamente no existir:
+Una vez hayas finalizado la prueba real de Microsoft, tendrás a acceso a diferentes certificados, credenciales y reportes. Ten en cuenta que dependiendo del proveedor de certificaciones (sea Certiport u otro) este tipo de documentos pueden variar o sencillamente no existir:
 
-Score Report.
-Diploma.
-Credencial virtual (Credly).
+Score Report.  
+Diploma (solo si ganas la prueba).  
+Credencial virtua - Credly (solo si ganas la prueba).  
 Historial de certificaciones de MS Learn.
 
 En la siguiente ruta te dejo imágenes de cada uno de ellos:
