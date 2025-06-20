@@ -1,7 +1,7 @@
 # Guía para certificarse Microsoft
 ¡Hola!, soy Álvaro Rodríguez, Partner y Trainer certificado por Microsofty Proctor de Certiport, te dejo mi LinkedIN para que nos contactemos: https://www.linkedin.com/in/alvarorodriguezlasso
 
-Este repositorio es una guía paso a paso para entender y aplicar una certificación de Microsoft
+Este repositorio es una guía paso a paso para entender y aplicar a las certificaciones de Microsoft.
 
 # 1. Certificaciones Microsoft
 Existen múltiples certificaciones expedidas por Microsoft.  Conforme a tus aptitudes y experiencia, deberás escoger la que más se adapte a tu perfil laboral, pues este tipo de credenciales son muy bien valoradas en la industria y da un plus a tu carrera profesional.
