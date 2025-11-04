@@ -1,1 +1,2 @@
-Descargar desde https://learningdownloadcenter.microsoft.com/ : DP-900T00: Introduction to Microsoft Azure Data (Spanish)
+Descargar desde https://learningdownloadcenter.microsoft.com/ : DP-900T00: Introduction to Microsoft Azure Data (Spanish).
+Solo puedes acceder a este vínculo si eres MCT (Microsoft Certified Trainer)
