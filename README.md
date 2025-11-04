@@ -1,4 +1,4 @@
-# Guía para certificarse Microsoft
+# Guía para certificaciones Microsoft
 ¡Hola!, soy Álvaro Rodríguez, Partner y Trainer certificado por Microsoft y Proctor de Certiport, te dejo mi LinkedIN para que nos contactemos: https://www.linkedin.com/in/alvarorodriguezlasso
 
 Este repositorio es una guía paso a paso para entender y aplicar a las certificaciones de Microsoft.
