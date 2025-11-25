@@ -13,7 +13,7 @@ https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/01_Certificaci
 # 2.  Cuentas para certificarse
 Para poder adquirir una certificación, la recomendación **más importante** es que uses una cuenta con acceso a correo electrónico de **MICROSOFT** a la cual tengas acceso de por vida y sin restricciones.  Debes evitar certificarte con cuentas corporativas, si existe el riesgo de perder el usuario.
 
-Los proveedores en los cuales debes crear un usuario para poder acceder a credenciales físicas y virtuales son: Microsoft, Certiport, Credly, Azure | Azure for Students (en el caso de certificaciones de Azure).  Para este último, deberas tener acceso a una cuenta Microsoft de un centro educativo avalado (por ejemplo la Universidad ICESI en Cali-Colombia).
+Los proveedores en los cuales debes crear un usuario para poder acceder a credenciales físicas y virtuales son: Microsoft, Certiport, Pearson VUE, Credly, Azure | Azure for Students (en el caso de certificaciones de Azure).  Para este último, deberas tener acceso a una cuenta Microsoft de un centro educativo avalado (por ejemplo la Universidad ICESI en Cali-Colombia).
 
 En este vínculo te dejo los accesos a los proveedores mencionados:
 
