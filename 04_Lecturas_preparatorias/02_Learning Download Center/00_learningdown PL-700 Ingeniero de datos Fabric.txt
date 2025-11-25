@@ -1,0 +1,2 @@
+Descargar desde https://learningdownloadcenter.microsoft.com/ : DP-700T00: Microsoft Fabric Data Engineer (Spanish).
+Solo puedes acceder a este vínculo si eres MCT (Microsoft Certified Trainer)
