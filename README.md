@@ -56,6 +56,7 @@ https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/06_Voucher_exa
 # 7. Centros de certificación autorizados 
 
 CERTIPORT
+
 Certiport es uno de los proveedores internacionales de exámenes de certificación (producción) de Microsoft.  Para poder lograr abarcar certificaciones en todo el mundo, CERTIPORT designa centros autorizados regionales para tal fin.
 
 En el siguiente enlace te dejo algunos ejemplo de Centros Autorizados de Certificación avalados por CERTIPORT.
@@ -63,6 +64,7 @@ En el siguiente enlace te dejo algunos ejemplo de Centros Autorizados de Certifi
 https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/07_Centros_de_Certificacion_autorizados
 
 PEARSON VUE
+
 Adicionalmente, podrás presentar tu examen de manera virtual a través de proveedores como Pearson VUE.  Este tipo de exámenes se agendan directamente desde la página oficial de las certificaciones Microsoft.  ⚠️ MUY IMPORTANTE: si decides presentar tu examen de manera virtual, deberás contar con webcam, un espacio de trabajo totalmente despejado (sin fotos, relojes, lapiceros, absolutamente limpio el escritorio) y un documento de identidad a la mano (idealmente el pasaporte), pues todos estos requisitos los validará el proctor vía webcam el día del examen.
 
 # 8. Compass
