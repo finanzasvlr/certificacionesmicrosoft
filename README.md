@@ -53,6 +53,8 @@ En el siguiente enlace te dejo una muestra de cómo luce dicho código:
 
 https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/06_Voucher_examen
 
+En ocasiones Microsoft regala vouchers para presentar las certificaciones de manera virtual en tu propia máquina.
+
 # 7. Centros de certificación autorizados 
 
 CERTIPORT
