@@ -67,8 +67,11 @@ PEARSON VUE
 
 Adicionalmente, podrás presentar tu examen de manera virtual a través de proveedores como Pearson VUE.  Este tipo de exámenes se agendan directamente desde la página oficial de las certificaciones Microsoft.  ⚠️ MUY IMPORTANTE: si decides presentar tu examen de manera virtual, deberás contar con webcam, un espacio de trabajo totalmente despejado (sin fotos, relojes, lapiceros, absolutamente limpio el escritorio) y un documento de identidad a la mano (idealmente el pasaporte), pues todos estos requisitos los validará el proctor vía webcam el día del examen.
 
-# 8. Compass
-Compass es el software en el cual se realizan las certificaciones de producción de Microsoft.  
+# 8. Plataformas para la realización de la prueba 
+
+COMPASS
+
+Compass es uno de los software en los que se realizan las certificaciones de producción de Microsoft.  
 
 Dicho software solo puede ser instalado a través de un ID de Administador de Centro Autorizado de Certificación de Certiport y en centros de cómputo físicos con máquinas adaptadas para la presentación de dichos Exámenes.  
 
@@ -77,6 +80,12 @@ Así mismo, el voucher para la presentación del examen real, solo puede ser hab
 El Compass se ve de la siguiente manera en tu máquina física de certificación: 
 
 https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/08_Compass
+
+PEARSON VUE
+
+Para exámenes virtuales, este proveedor usa su propia plataforma para la realización del examen, la cual se instala en tu máquina personal siguiendo las instrucciones del proveedor una vez se adquiera el voucher del examen: la misma plataforma te indica cómo hacer pruebas de instalación en tu máquina.
+
+Sea cual sea la plataforma que uses, el objetivo es único, evitar usar ayudas dentro del examen: no funciona absolutamente ninguna ventana mas que la del examen.
 
 # 9. Diplomas y Credenciales
 Una vez hayas finalizado la prueba real de Microsoft, tendrás a acceso a diferentes certificados, credenciales y reportes. Ten en cuenta que dependiendo del proveedor de certificaciones (sea Certiport u otro) este tipo de documentos pueden variar o sencillamente no existir:
