@@ -67,7 +67,7 @@ https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/07_Centros_de_
 
 PEARSON VUE
 
-Adicionalmente, podrás presentar tu examen de manera virtual a través de proveedores como Pearson VUE.  Este tipo de exámenes se agendan directamente desde la página oficial de las certificaciones Microsoft.  ⚠️ MUY IMPORTANTE: si decides presentar tu examen de manera virtual, deberás contar con webcam, un espacio de trabajo totalmente despejado (sin fotos, relojes, lapiceros, absolutamente limpio el escritorio) y un documento de identidad a la mano (idealmente el pasaporte), pues todos estos requisitos los validará el proctor vía webcam el día del examen.
+Adicionalmente, podrás presentar tu examen de manera virtual a través de proveedores como Pearson VUE.  Este tipo de exámenes se agendan directamente desde la página oficial de las certificaciones Microsoft.  ⚠️ MUY IMPORTANTE: si decides presentar tu examen de manera virtual, deberás contar con webcam, un espacio de trabajo totalmente despejado (sin fotos, relojes, lapiceros, absolutamente limpio el escritorio) y un documento de identidad a la mano (idealmente el pasaporte), pues todos estos requisitos los validará el proctor vía webcam el día del examen.  En este video te dejo una guía de cómo registrarse para una certificación Microsoft para la modalidad virtual: https://youtu.be/QB4xAJRC7xk
 
 # 8. Plataformas para la realización de la prueba 
 
