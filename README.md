@@ -101,3 +101,7 @@ En la siguiente ruta te dejo imágenes de cada uno de ellos:
 
 https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/09_Diploma_y_credenciales
 
+# 10. Comunidad Microsoft
+La comunidad Microsoft, constantemente comparte contenido gratuito tanto virtualmente como presencialmente.   Por ejemplo, Microsoft Reactor a través de su página web https://developer.microsoft.com/es-es/reactor/ periódicamente realiza convocatorias para asistir en livestreamings en Youtube, totalmente gratis.  Es importante que participes de este tipo de eventos, porque aparte de que en ocasiones puedes ganarte obsequios como vouchers para presentar exámenes, también logras aprender, conectar con gente de la comunidad y así entre todos promovemos la construcción del conocimiento.
+
+
