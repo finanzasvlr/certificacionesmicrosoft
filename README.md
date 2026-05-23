@@ -46,7 +46,12 @@ En el siguiente enlace te comparto los enlaces a las pruebas y enlaces mencionad
 
 https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/05_Simulaciones_examen
 
-# 6. Voucher examen (producción)
+# 6.  Sandbox (entorno demo o prueba del examen)
+Es recomendable familiarizarse con la interfaz del examen antes de realizar la prueba en producción. Por esta razón Microsoft nos facilita un demo de la interfaz para presentar la certificación.  Simmplemente debes dar click aquí:
+
+https://aka.ms/examdemo
+
+# 7. Voucher examen (producción)
 Para poder realizar el examen real (producción) de Microsoft, deberás adquirir (de manera paga) un código de voucher: tu Centro Autorizado de Certificación será el encargado de generar el número del voucher. 
 
 En el siguiente enlace te dejo una muestra de cómo luce dicho código:
@@ -55,7 +60,7 @@ https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/06_Voucher_exa
 
 En ocasiones Microsoft regala vouchers para presentar las certificaciones de manera virtual en tu propia máquina.
 
-# 7. Centros de certificación autorizados 
+# 8. Centros de certificación autorizados 
 
 CERTIPORT
 
@@ -69,7 +74,7 @@ PEARSON VUE
 
 Adicionalmente, podrás presentar tu examen de manera virtual a través de proveedores como Pearson VUE.  Este tipo de exámenes se agendan directamente desde la página oficial de las certificaciones Microsoft.  ⚠️ MUY IMPORTANTE: si decides presentar tu examen de manera virtual, deberás contar con webcam, un espacio de trabajo totalmente despejado (sin fotos, relojes, lapiceros, absolutamente limpio el escritorio) y un documento de identidad a la mano (idealmente el pasaporte), pues todos estos requisitos los validará el proctor vía webcam el día del examen.  En este video te dejo una guía de cómo registrarse para una certificación Microsoft para la modalidad virtual: https://youtu.be/QB4xAJRC7xk
 
-# 8. Plataformas para la realización de la prueba 
+# 9. Plataformas para la realización de la prueba 
 
 COMPASS
 
@@ -89,7 +94,7 @@ Para exámenes virtuales, este proveedor usa su propia plataforma para la realiz
 
 Sea cual sea la plataforma que uses, el objetivo es único, evitar usar ayudas dentro del examen: no funciona absolutamente ninguna ventana mas que la del examen.
 
-# 9. Diplomas y Credenciales
+# 10. Diplomas y Credenciales
 Una vez hayas finalizado la prueba real de Microsoft, tendrás a acceso a diferentes certificados, credenciales y reportes. Ten en cuenta que dependiendo del proveedor de certificaciones (sea Certiport u otro) este tipo de documentos pueden variar o sencillamente no existir:
 
 Score Report.  
@@ -101,7 +106,7 @@ En la siguiente ruta te dejo imágenes de cada uno de ellos:
 
 https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/09_Diploma_y_credenciales
 
-# 10. Comunidad Microsoft
+# 11. Comunidad Microsoft
 La comunidad Microsoft, constantemente comparte contenido gratuito tanto virtualmente como presencialmente.   Por ejemplo, Microsoft Reactor a través de su página web https://developer.microsoft.com/es-es/reactor/ periódicamente realiza convocatorias para asistir en livestreamings en Youtube, totalmente gratis.  Es importante que participes de este tipo de eventos, porque aparte de que en ocasiones puedes ganarte obsequios como vouchers para presentar exámenes, también logras aprender, conectar con gente de la comunidad y así entre todos promovemos la construcción del conocimiento.
 
 
