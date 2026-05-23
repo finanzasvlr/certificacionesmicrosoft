@@ -47,7 +47,7 @@ En el siguiente enlace te comparto los enlaces a las pruebas y enlaces mencionad
 https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/05_Simulaciones_examen
 
 # 6.  Sandbox (entorno demo o prueba del examen)
-Es recomendable familiarizarse con la interfaz del examen antes de realizar la prueba en producción. Por esta razón Microsoft nos facilita un demo de la interfaz para presentar la certificación.  Simmplemente debes dar click aquí:
+Es recomendable familiarizarse con la interfaz del examen antes de realizar la prueba en producción. Por esta razón Microsoft nos facilita un demo de la interfaz para presentar la certificación.  Simplemente debes dar click aquí:
 
 https://aka.ms/examdemo
 
