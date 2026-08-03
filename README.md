@@ -19,10 +19,8 @@ En este vínculo te dejo los accesos a los proveedores mencionados:
 
 https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/02_Cuentas_para_certificarse
 
-# 3.  Videos preparatorios
-Si eres un alumno de la Universidad ICESI, solicita acceso a los videos tutoriales que te dejo en la siguiente ruta:
-
-https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/03_Videos_preparatorios
+# 3.  Comunidad Microsoft
+La comunidad Microsoft, constantemente comparte contenido gratuito tanto virtualmente como presencialmente.   Por ejemplo, Microsoft Reactor a través de su página web https://developer.microsoft.com/es-es/reactor/ periódicamente realiza convocatorias para asistir en livestreamings en Youtube, totalmente gratis.  Es importante que participes de este tipo de eventos, porque aparte de que en ocasiones puedes ganarte obsequios como vouchers para presentar exámenes, también logras aprender, conectar con gente de la comunidad y así entre todos promovemos la construcción del conocimiento.
 
 # 4.  Material de lectura y ejemplo de preguntas
 Complementario a los videos del paso anterior, es ideal que realices algunas lecturas y prácticas.  De manera opcional y complementaria, en Microsoft Learn están dispuetas máquinas virtuales para realizar las prácticas respectivas.
@@ -105,8 +103,3 @@ Historial de certificaciones de MS Learn.
 En la siguiente ruta te dejo imágenes de cada uno de ellos:
 
 https://github.com/finanzasvlr/certificacionesmicrosoft/tree/main/09_Diploma_y_credenciales
-
-# 11. Comunidad Microsoft
-La comunidad Microsoft, constantemente comparte contenido gratuito tanto virtualmente como presencialmente.   Por ejemplo, Microsoft Reactor a través de su página web https://developer.microsoft.com/es-es/reactor/ periódicamente realiza convocatorias para asistir en livestreamings en Youtube, totalmente gratis.  Es importante que participes de este tipo de eventos, porque aparte de que en ocasiones puedes ganarte obsequios como vouchers para presentar exámenes, también logras aprender, conectar con gente de la comunidad y así entre todos promovemos la construcción del conocimiento.
-
-
