@@ -25,6 +25,7 @@ La comunidad Microsoft, constantemente comparte contenido gratuito tanto virtual
 Dentro de los eventos más importantes de la comunidad a nivel mundial se encuentran:
 
 https://www.powerplatformbootcamp.com/
+
 https://aka.ms/DataDays
 
 # 4.  Material de lectura y ejemplo de preguntas
